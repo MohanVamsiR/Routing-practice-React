@@ -1,0 +1,25 @@
+/* Write your CSS code here */
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo-image {
+  width: 60px;
+  height: 60px;
+}
+.nav-items {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
+.nav {
+  padding-left: 15px;
+}
+.wave {
+  display: flex;
+  flex-direction: row;
+}
+.heading {
+  color: #12022f;
+}

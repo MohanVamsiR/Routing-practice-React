@@ -1,0 +1,15 @@
+/* Write your CSS code here */
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.image-home {
+  width: 150px;
+}
+.head {
+  color: #6d396b;
+  font-size: 25px;
+  font-weight: bold;
+}
